@@ -33,16 +33,18 @@ render.py each txt file is read through and the information held within a list c
 library matplotlib which is used to graph the data for that trees information. This is done for each object and is then displayed 
 to the user's screen where the data can be viewed.
 
-#### Languages used: C++, Python
 
-## Files authored by me
+#### Languages Used: C++, Python
+
+## Files Authored By Me
 - main.cpp
 - Survey.h
 - tree_functions.h
 - render.py (coauthored by me and my partner Brent Chandler)
 
-## Files not authored by me
+## Files Not Authored By Me
 - AVLTree.h
 - BinarySearchTree.h
 - SplayTree.h
+
 All of which were authored by my lovely teacher Lisa Dion of University of Vermont.
