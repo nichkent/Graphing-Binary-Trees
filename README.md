@@ -14,8 +14,10 @@ across several tech companies. The fields from the data include:
   - phys_health_consequence
   - mental_health_interview
   - phys_health_interview
-    Original Source: https://osmhhelp.org/research
-    Kaggle: https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
+    
+Original Source: https://osmhhelp.org/research
+    
+Kaggle: https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
 
 The program then creates a vector of Survey objects from the data collected from survey.csv. These objects have the same fields
 as the ones listed in the file. Once, the vector is created it then passes that vector into three separate functions located in
